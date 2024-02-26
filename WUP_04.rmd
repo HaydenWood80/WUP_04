@@ -73,4 +73,4 @@ The P value is 0.0000236 so we reject the $H_0$
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
-The original problem we had to solve was, If there was a correlation in WORDSUM test score and DEGREE of the students that took the test.With our research we discovered that BACHLORS median was 10, GRADUATE median was 11, HIGHSCHOOL median was 9, JUNIOR COLLEGE median was 10 and LT HIGHSCHOOL was 8. We also found that the P value was 0.0000236 so we reject the $H_0$
+The original problem we had to solve was, If there was a correlation in WORDSUM test score and DEGREE of the students that took the test.With our research we discovered that BACHLORS median was 10, GRADUATE median was 11, HIGHSCHOOL median was 9, JUNIOR COLLEGE median was 10 and LT HIGHSCHOOL was 8. We also found that the P value was 0.0000236 so we reject the $H_0$ because p<0.05
